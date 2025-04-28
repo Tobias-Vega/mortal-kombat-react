@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url('/WARRIOR_SHRINE_HD.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+
+#root {
+  min-height: 100%;
+}
